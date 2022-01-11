@@ -1,2 +1,1 @@
-# Tindog
-First funcional and responsive webpage
+TinDog Starting Files
